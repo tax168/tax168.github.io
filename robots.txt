@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://hubu.eu.cc/sitemap.xml
+Sitemap: https://blog.hubu.eu.cc/sitemap.xml

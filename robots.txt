@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://tax168.github.io/sitemap.xml
+Sitemap: https://hubu.eu.cc/sitemap.xml

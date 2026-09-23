@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://103.236.97.137:2103/tax/sitemap.xml
+Sitemap: https://blog.hubu.eu.cc/sitemap.xml
